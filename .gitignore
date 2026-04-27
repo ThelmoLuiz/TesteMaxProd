@@ -1,0 +1,17 @@
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Frontend dependencies and test artifacts
+**/node_modules/
+**/coverage/
+**/test-results/
+**/playwright-report/
+**/blob-report/
+
+# Logs
+*.log
+**/*.log
+**/*.trx
+**/*.coverage
+**/*.coveragexml
