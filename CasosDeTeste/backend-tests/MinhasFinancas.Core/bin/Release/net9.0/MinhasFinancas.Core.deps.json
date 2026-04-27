@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MinhasFinancas.Core/1.0.0": {
+        "runtime": {
+          "MinhasFinancas.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinhasFinancas.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
